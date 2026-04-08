@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Delete Account</title>
+</head>
+<body>
+  <h2>Account Deletion</h2>
+  <p>To delete your account, please follow the instructions in the app:</p>
+  <ul>
+    <li>Open the app</li>
+    <li>Go to Settings → Delete Account</li>
+  </ul>
+  <p>If you cannot access the app, contact us at: <a href="mailto:amercyjoyce@gmail.com">support@yourdomain.com</a></p>
+</body>
+</html>
